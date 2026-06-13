@@ -177,5 +177,4 @@ This project is the implementation of:
 
 ## 👤 Behnam Pourpooneh
 
-**[اسمت رو اینجا بذار]**  
 M.Sc. in Aerospace engineering  Iran university of science and technology (IUST)
